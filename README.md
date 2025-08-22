@@ -29,7 +29,7 @@ connect4/
 
 Clone the repository
 
-git clone https://github.com/your-username/connect4.git
+git clone https://github.com/ashfaq120/connect-four-game.git
 
 
 Navigate to the project folder
@@ -67,7 +67,8 @@ Vanilla JavaScript (ES6)
 
 # 📸 Screenshots
 
-(Add game screenshots here)
+![WhatsApp Image 2025-08-22 at 10 54 48_a5bd05f5](https://github.com/user-attachments/assets/ff9cf348-cb69-4b5b-8994-4f913cd2e02c)
+
 
 # ✨ Future Enhancements
 
